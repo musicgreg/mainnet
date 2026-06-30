@@ -25,7 +25,6 @@ Validators should vote, download the official Passage v4.0.0 release, verify che
 - wasmd v0.45.0 to v0.50.0.
 - ibc-go v7 to v8.
 - Adds the `x/circuit` circuit-breaker module.
-- Adds the `x/group` multisig and decision-making frameworks module.
 - Enables proposal cancellation.
 - Enables expedited governance proposals.
 - Enables Sign Mode Textual.
